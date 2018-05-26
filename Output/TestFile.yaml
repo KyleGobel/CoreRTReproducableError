@@ -1,0 +1,3 @@
+﻿kind: deployment
+apiVersion: v1
+currentContext: production
